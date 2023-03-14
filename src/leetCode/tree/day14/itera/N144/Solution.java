@@ -1,4 +1,4 @@
-package leetCode.tree.day14.itera.N144;
+package LeetCode.tree.day14.itera.N144;
 
 import java.util.*;
 

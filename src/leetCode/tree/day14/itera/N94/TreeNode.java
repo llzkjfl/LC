@@ -1,4 +1,4 @@
-package leetCode.tree.day14.itera.N94;
+package LeetCode.tree.day14.itera.N94;
 
 /**
  * @Description:

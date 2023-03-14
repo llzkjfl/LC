@@ -1,4 +1,4 @@
-package leetCode.list.day03.N203;
+package LeetCode.list.day03.N203;
 
 
 

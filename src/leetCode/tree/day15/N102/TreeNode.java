@@ -1,4 +1,4 @@
-package leetCode.tree.day15.N102;
+package LeetCode.tree.day15.N102;
 
 /**
  * @Description: 二叉树的java定义
